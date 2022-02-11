@@ -41,3 +41,8 @@ ser realizadas con ellas.
 
 ### Kata modulo 10
 ...pendiente
+
+
+Los ejercicios elaborados parten del Curso Propedútico de Python para Launch X - Innovacción Virtual,
+y cuyo material fue desarrollado con base en los contenidos de MSLearn y la metáfora de LaunchX,
+traducido e implementado por: Fernanda Ochoa - Learning Producer de LaunchX.
