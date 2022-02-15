@@ -31,16 +31,19 @@ Exploré en Python la agrupación de datos usando listas, así como las tareas m
 ser realizadas con ellas.
 
 ## Kata modulo 7
-...pendiente
+Comencé a entender la lógica de cómo usar los ciclos while para ejecutar la misma tareas varias veces y ciclos 
+for para repetir una vez sobre los datos de la lista, así como cuándo es mejor aplicar uno u otro.
 
 ## Kata modulo 8
-...pendiente
+Inicié mi primera experiencia con el modelado de datos complejos mediante el uso de diccionarios.
 
 ## Kata modulo 9
-...pendiente
+Aprendí un poco del uso del código modular mediante funciones simples y de múltiples argumentos
+para hacer que el código sea reutilizable cuando sea necesario, mejorando la legibilidad y mantenimiento
+del mismo.
 
 ### Kata modulo 10
-...pendiente
+Aprendí a manejar excepciones y crear mensajes de error útiles para el control del flujo de código.
 
 
 Los ejercicios elaborados parten del Curso Propedútico de Python para Launch X - Innovacción Virtual,
